@@ -19,5 +19,3 @@ mixedCase.toLowercase() === mixedCase//false
 mixedCase.toUpperCase() === mixedCase//false
 
 console.log('Hello')
-
-
