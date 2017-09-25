@@ -19,4 +19,3 @@ mixedCase.toLowercase() === mixedCase//false
 mixedCase.toUpperCase() === mixedCase//false
 
 var string = Hello
-
