@@ -18,3 +18,22 @@ mixedCase.toLowercase() === mixedCase//false
 
 mixedCase.toUpperCase() === mixedCase//false
 
+function logShout(string) {
+  console.log(string.toUpperCase())
+}
+function logWhisper(string) {
+  console.log(string.toLowerCase())
+}
+
+function sayHiToGrandma(string) {
+  if (string.toLowerCase() === string) {
+    return "I cannot hear you!";
+    else if (string.toUpperCase() === string) {
+      return "YES, hello sweetie!";
+      else if (string ==="I love you to, Grandmama.") {
+        return "I love you, too!";
+      }
+      }
+    }
+  }
+}
