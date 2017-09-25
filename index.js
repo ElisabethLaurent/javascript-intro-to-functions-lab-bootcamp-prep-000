@@ -18,4 +18,5 @@ mixedCase.toLowercase() === mixedCase//false
 
 mixedCase.toUpperCase() === mixedCase//false
 
-sayHelloTo('Isabel')
+var string = Hello
+
