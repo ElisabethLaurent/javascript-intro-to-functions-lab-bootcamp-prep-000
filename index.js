@@ -18,4 +18,7 @@ mixedCase.toLowercase() === mixedCase//false
 
 mixedCase.toUpperCase() === mixedCase//false
 
-var string = Hello
+expect(shout('hello')).toEqual('HELLO')
+
+expect(whisper('hello')).toEqual('hello')
+
