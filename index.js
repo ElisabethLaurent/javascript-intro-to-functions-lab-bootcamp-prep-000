@@ -18,4 +18,6 @@ mixedCase.toLowercase() === mixedCase//false
 
 mixedCase.toUpperCase() === mixedCase//false
 
-shout("Hello");
+shout("hEllo")
+var string=shout(hEllo){console.log("well," + string);}
+
