@@ -20,4 +20,3 @@ mixedCase.toUpperCase() === mixedCase//false
 
 shout("hEllo")
 var string=shout(hEllo){console.log("well," + string);}
-
