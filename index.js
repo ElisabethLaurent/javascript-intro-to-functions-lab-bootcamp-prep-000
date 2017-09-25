@@ -6,13 +6,13 @@ function whisper(string) {
 }
 var uppercase = "HELLO!"
 
-uppercase.toUpperCase()===uppercase//true
+uppercase.toUpperCase() === uppercase//true
 
 var lowercase = 'hello!'
 
-lowercase.toLowerCase()===lowercase//true
+lowercase.toLowerCase() === lowercase//true
 varmixedCase = 'Hi there!'
 
-mixedCase.toLowercase()===mixedCase//false
+mixedCase.toLowercase() === mixedCase//false
 
-mixedCase.toUpperCase()===mixedCase//false
+mixedCase.toUpperCase() === mixedCase//false
