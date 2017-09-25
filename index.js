@@ -21,4 +21,3 @@ mixedCase.toUpperCase() === mixedCase//false
 expect(shout('hello')).toEqual('HELLO')
 
 expect(whisper('hello')).toEqual('hello')
-
