@@ -18,4 +18,6 @@ mixedCase.toLowercase() === mixedCase//false
 
 mixedCase.toUpperCase() === mixedCase//false
 
-cosole.log('Hello')
+console.log('Hello')
+
+
